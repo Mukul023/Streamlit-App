@@ -26,7 +26,7 @@ img_sales = Image.open("images/Sales.png")
 
 #----- HEADER SECTION -----
 with st.container():
-    st.header('Hi, I am Mritunjay :smile:')
+    st.header('Hey, I am Mritunjay :smile:')
     st.title('A Data Analyst from Canada ')
     st.write('I am passionate about finding ways to use Python, VBA, and SQL to be more efficient and effective in bussiness settings.')
     my_info = st.button('Learn More')
