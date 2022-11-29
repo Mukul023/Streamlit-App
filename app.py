@@ -20,7 +20,7 @@ local_css("style/style.css")
 #---- LOAD ASSETS ----
 lottie_coding = load_lottieurl('https://assets5.lottiefiles.com/packages/lf20_es4p9zph.json')
 img_walmart = Image.open("images/Walmart.jpg")
-img_fifa = Image.open("images/FIfa.png")
+img_fifa = Image.open("images/Fifa.png")
 img_sales = Image.open("images/Sales.png")
 
 #----- HEADER SECTION -----
